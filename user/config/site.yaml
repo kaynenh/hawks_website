@@ -1,0 +1,35 @@
+title: Hawks Football
+author:
+  name: Kaynen
+  email: 'kaynenh@gmail.com'
+metadata:
+    description: 'Built for Hawks Football on Woo, a grav template.'
+    
+# Site settings
+title: Hawks Football
+email: hawks@hawksfootball.org
+description: "The identity of the Rib Lake/Prentice football team is Hawks Pride. No excuses. No explanations."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  -  url: "https://twitter.com/RLP_Hawks"
+     icon: twitter
+
+# Main Menu
+# menu:
+#  - text: Features
+#    link: "#features"
+
+footer: 
+  text: "The identity of the Rib Lake/Prentice football team is Hawks Pride. No excuses. No explanations."
+  address:
+    title: Our Schools
+    lines:
+      - line: Rib Lake, WI
+      - line: Prentice, WI
+  social_title: Socialize
+  contact:
+    title: CONTACT US
+    lines:
+      - text: coachk@hawksfootball.org
+        url: "mailto:coachk@hawksfootball.org"
