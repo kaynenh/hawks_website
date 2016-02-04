@@ -7,7 +7,7 @@ rows:
     description_position: right
     image: defense.png
   - title: 4-6 Snap to Whistle
-    description: Football games last about 10 minutes. Each play is only about 5 seconds. Don't waste the moments you have. Work as hard as you can in the mere seconds the game lasts. At the end of the game, will you be proud of the effort you've given? Go all out, all game, four to six seconds at a time.
+    description: Football games last about ten minutes. Each play is only about 5 seconds. Don't waste the moments you have. Work as hard as you can in the mere seconds the game lasts. At the end of the game, will you be proud of the effort you've given? Go all out, all game, four to six seconds at a time.
     description_position: left
     image: mesh.png
   - title: ONE
