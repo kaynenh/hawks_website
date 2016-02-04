@@ -2,6 +2,9 @@
 title: 'Rib Lake vs. Prentice - The Importance of Multi-sport Athletes'
 published: true
 date: '24-01-2016 00:00'
+taxonomy:
+    category:
+        - news
 ---
 
 ![](rlvp.jpg)

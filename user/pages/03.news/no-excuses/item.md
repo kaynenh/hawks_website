@@ -2,6 +2,11 @@
 title: 'No Excuses, No Explanations'
 published: true
 date: '23-06-2015 00:00'
+taxonomy:
+    tag:
+        - workouts
+    category:
+        - news
 ---
 
 ![](tires.png)

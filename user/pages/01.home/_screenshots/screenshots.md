@@ -1,7 +1,5 @@
 ---
-title: Get Hosting.         
+title: The Gallery.
 ---
-#Product Screenshots.
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+#Images of the Hawks
+Enjoy some unique photography of the Hawks, shot throughout our 2015 season. If you pictures you'd like us to feature here, contact Coach K or Coach Heikkinen.

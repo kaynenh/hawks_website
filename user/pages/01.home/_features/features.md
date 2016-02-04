@@ -1,25 +1,17 @@
 ---
-title: Features
+title: Values
 visible: false
 rows:
-  - title: Simple, Clean and Modern Design.
-    description: Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+  - title: No Excuses, No Explanations.
+    description: Football, like life, is all about learning from mistakes. The only guarantee is things will go wrong. How will you respond? Will you take the easy way out and blame someone else, your coaches or your teammates? Or will you look in the mirror and understand that you have the power to respond above the line?
     description_position: right
-    image: feature-image-1.png
-    name: design
-  - title: Fully Responsive.
-    description: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+    image: defense.png
+  - title: 4-6 Snap to Whistle
+    description: Football games last about 10 minutes. Each play is only about 5 seconds. Don't waste the moments you have. Work as hard as you can in the mere seconds the game lasts. At the end of the game, will you be proud of the effort you've given? Go all out, all game, four to six seconds at a time.
     description_position: left
-    image: feature-image-2.png
-    name: responsive
-  - title: Cross-Browser Compatible.
-    description: Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+    image: mesh.png
+  - title: ONE
+    description: No one wins football games on their own. No single athlete will beat the strength of eleven. Unlike almost every other sport, the combined power of the team is absolutely essential to the success or failure of the outcome of every game. Do you have what it takes to be part of the Hawks? Will you help us be ONE?
     description_position: right
-    image: feature-image-3.png
-    name: cross-browser
-  - title: Video Support.
-    description: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
-    description_position: left
-    video: http://player.vimeo.com/video/14592941
-    name: video
+    image: execute.png
 ---

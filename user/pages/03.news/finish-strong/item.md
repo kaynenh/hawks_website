@@ -2,6 +2,9 @@
 title: 'Finish Strong'
 published: true
 date: '23-11-2015 00:00'
+taxonomy:
+    category:
+        - news
 ---
 
 ![](vs-thorp.JPG)

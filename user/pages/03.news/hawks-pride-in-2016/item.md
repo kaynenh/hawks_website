@@ -3,6 +3,9 @@ title: 'Hawks Pride in 2016'
 published: true
 date: '02-01-2016 00:00'
 publish_date: '02-01-2016 00:00'
+taxonomy:
+    category:
+        - news
 ---
 
 ![](why-play-hawks-football.jpg)

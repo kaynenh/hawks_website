@@ -1,9 +1,9 @@
 ---
-title: Get Hosting.
+title: Get Connected
 buttons: 
-  - text: Sign Up Now
-    url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT            
+  - text: Join Remind
+    url: https://www.remind.com/join/hawkspride
 ---
-##[Host This Template on Dreamhost.](http://www.dreamhost.com/r.cgi?287326|STYLESHOUT)
-Looking for an awesome and reliable webhosting? Try [DreamHost](http://www.dreamhost.com/r.cgi?287326|STYLESHOUT).
-Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>. 
+##[Get Reminders via Text.](https://www.remind.com/join/hawkspride)
+The Hawks Football team uses Remind to share important information via text,
+such as workouts, contact days, cookouts and more. Sign up &amp; stay updated!

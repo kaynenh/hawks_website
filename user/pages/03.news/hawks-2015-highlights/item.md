@@ -5,6 +5,7 @@ date: '03-01-2016 00:00'
 taxonomy:
     category:
         - video
+        - news
 ---
 
 ![](helmet-remix.png)

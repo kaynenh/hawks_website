@@ -2,6 +2,11 @@
 title: '2015 Season Through the Eyes of a Manager/Trainer'
 published: true
 date: '06-12-2015 00:00'
+taxonomy:
+    tag:
+        - reflections
+    category:
+        - news
 ---
 
 ![](moriah.png)

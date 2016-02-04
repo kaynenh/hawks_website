@@ -1,13 +1,13 @@
 ---
-title: We are Hawks Football
+title: We are Hawks Football. <br />This is Hawks Pride.
 showcase_image: hero-image.png
 buttons:
+    - text: What's New
+      url: '/news'
+      class: button trial animated
     - text: Learn More
-      url: '#'
-      class: button trial animated shake
-    - text: Get Involved
-      url: '#'
+      url: '/team-info'
       class: button learn-more smoothscroll
 ---
 
-The Hawks Football team is dedicated to teach life skills, hard-work and dedication through football. Thanks for visiting!
+“There is no more powerful force than a group of men who share an uncommon commitment to each other and to achieving their mission.”

@@ -3,6 +3,12 @@ title: 'JJ Watt Foundation Donates to Hawks Youth Football'
 published: true
 date: '17-12-2015 00:00'
 publish_date: '17-12-2015 00:00'
+taxonomy:
+    tag:
+        - 'jj watt'
+        - 'youth football'
+    category:
+        - news
 ---
 
 ![](watt.png)
