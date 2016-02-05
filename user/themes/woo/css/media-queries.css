@@ -48,6 +48,8 @@
    /* nav-wrap */
    #nav-wrap { font: 10px 'montserrat-regular', sans-serif; }
 
+   .subnav {display: none !important;}
+
    /* Features Section
    ------------------------------------------------------------------- */
    #features .feature { margin-bottom: 30px; }
@@ -84,7 +86,7 @@
 
    /* Footer
    ------------------------------------------------------------------- */
-   footer .right-cols .columns { width: 50% !important; }
+   footer .right-cols .columns { width: 100% !important; }
    footer .right-cols .columns:last-child { 
       clear: left; 
       float: left;      
@@ -282,7 +284,7 @@
    footer .info p { margin-bottom: 18px; }
    footer h3:before { text-align: center; }
    footer .right-cols {       
-      width: 90% !important;
+      width: 100% !important;
       margin: 0 auto ;
       margin-bottom: 42px; 
       text-align: center;
@@ -297,7 +299,7 @@
    }   
 
    /* Go To Top Button */
-   #go-top { margin-left: -22px; }
+   #go-top { margin-left: 0; margin-top: 60px; }
    #go-top a {
    	width: 54px;
    	height: 54px;

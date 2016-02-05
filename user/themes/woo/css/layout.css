@@ -1029,9 +1029,4 @@ a#imagelightbox-close:hover, a#imagelightbox-close:focus { color: #11ABB0; }
 		right: 1.25em; /* 20 */
 	}
 
-} 
-
-@media only screen and (max-width: 41.250em) {
-#subnav {display:none;}
-footer .right-cols {display:block;text-align:center;width:100%;margin:0;padding:0;}
 }
