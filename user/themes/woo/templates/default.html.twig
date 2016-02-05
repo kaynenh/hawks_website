@@ -1,0 +1,28 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+<a id="hero" href="#" style="visibility: hidden;"></a>
+ <section id="styles" style="margin: 54px 0 72px; background: #fff;">
+  <div class="bannerhead">
+   <div class="row">
+    <div class="columns twelve">
+     <h2>{{ page.title }}</h2>
+    </div>
+   </div>
+  </div>
+  <div class="row">
+   <div class="columns twelve">
+    {% if config.plugins.breadcrumbs.enabled %}
+     {% include 'partials/breadcrumbs.html.twig' %}
+    {% endif %}
+    </div>
+   </div>
+  <div class="row">
+   <div class="columns eight">
+   {{ page.content }}
+    </div>
+   <div class="columns four">
+   {% include 'partials/sidebar.html.twig' with {'blog':page.parent}%}
+   </div>
+ </div>
+</section>
+{% endblock %}

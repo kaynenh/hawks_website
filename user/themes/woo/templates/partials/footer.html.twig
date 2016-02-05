@@ -1,0 +1,37 @@
+<footer>
+    <div class="row">         
+        <div class="five columns info">
+            <div class="footer-logo">
+                <a href="{{ base_url_absolute }}">
+                    <img src="{{ theme_url }}/images/hawks-logo-250.jpg" alt="" />
+                </a>
+                <p>
+                    {{ site.footer.text }}<br />&copy; 2016 Hawks Football
+                </p>
+            </div>
+        </div>
+        <div class="six offset-1 columns right-cols">
+            <div class="row">
+                <div class="six columns">
+                    <h3 class="address">{{ site.footer.address.title }}</h3>
+                    <p>
+                        {% for item in site.footer.address.lines %}
+                           {{ item.line }} <br>
+                        {% endfor %}
+                    </p>
+                    <h3 class="contact">{{ site.footer.contact.title }}</h3>
+                    <ul>
+                        {% for item in site.footer.contact.lines %}
+                            <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="six columns last">
+                    <div id="go-top">
+                        <a class="smoothscroll" title="Back to Top" href="#hero"><i class="icon-up-open"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,19 @@
+{% set feed_url = blog.url == '/' or blog.url == base_url_relative ? (base_url_relative~'/'~blog.slug) : blog.url %}
+{% set new_base_url = blog.url == '/' ? '' : blog.url %}
+
+<div class="sidebar-content">
+    {% if page.find(page.route).parent.children %}
+    <ul class="sidebar-menu">
+    {% for child in page.find(page.route).parent.children %}
+        {% if child.visible and child.menu != 'Home' %}
+            {% set current_page = (child.active or child.activeChild) ? 'active' : '' %}
+            <li class="{{ current_page }}">
+                <a href="{{ child.url }}">
+                    {{ child.menu }}
+                </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
+</div>

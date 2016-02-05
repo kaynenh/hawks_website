@@ -1,0 +1,50 @@
+{% embed 'partials/base.html.twig' %}
+
+	{% set collection = page.collection() %}
+    {% set current_month = page.taxonomy.archives_month %}
+    {% set first = 1 %}
+
+	{% block content %}
+		<a id="hero" href="#" style="visibility: hidden;"></a>
+		<section id="styles" style="margin: 54px 0 72px; background: #fff;">
+            <div class="bannerhead">
+                <div class="row">
+                    <div class="columns twelve">
+                        <h2>{{ page.title }}</h2>
+                    </div>
+                </div>
+            </div>
+			<div class="row">
+				{{ page.content }}
+                <div class="columns twelve">
+
+                    {% if config.plugins.breadcrumbs.enabled %}
+                        {% include 'partials/breadcrumbs.html.twig' %}
+                    {% endif %}
+                    <div class="content-wrapper row">
+                        <div id="listing" class="columns nine">
+                            {% for child in collection %}
+                                {% if first == 1 %}
+                                {% set current_month = child.taxonomy.archives_month %}
+                                {% set first = 0 %}
+                                {% endif %}
+                                {% include 'partials/blog_item.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
+                            {% endfor %}
+
+                            {% if config.plugins.pagination.enabled and collection.params.pagination %}
+                                {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+                            {% endif %}
+                        </div>
+                        <div id="sidebar" class="columns three">
+                            {% include 'partials/sidebar-blog.html.twig' with {'blog':page} %}
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+		</section>
+	{% endblock %}
+
+{% endembed %}
+
+
