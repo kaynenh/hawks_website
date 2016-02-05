@@ -1,5 +1,5 @@
 ---
-title: Pride
+title: This is Hawks Pride
 menu: Home
 onpage_menu: true
 body_class: index

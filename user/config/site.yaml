@@ -3,7 +3,8 @@ author:
   name: Kaynen
   email: 'kaynenh@gmail.com'
 metadata:
-    description: 'Built for Hawks Football on Woo, a grav template.'
+    description: 'We are Hawks Football. This is Hawks Pride.'
+    "og:image": '/user/pages/01.home/_features/defense.png'
     
 # Site settings
 title: Hawks Football
