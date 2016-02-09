@@ -2,6 +2,4 @@
 title: Schedule
 ---
 
-![](schedule.png)
-
-2016 Schedule coming soon
+![](2016%20sched%202.pub.png)

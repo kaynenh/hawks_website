@@ -3,7 +3,7 @@ title: 'Uncommon Commitment'
 visible: true
 ---
 
-![](vs-edgar.png)
+![](Uncommon-commitment-1.png)
 
 “There is no more powerful force than a group of men who share an uncommon commitment to each other and to achieving their mission.” -Urban Meyer
 
@@ -12,3 +12,5 @@ In order to compete in the Marawood Conference, we need an UNCOMMON COMMITMENT b
 We can do this by demonstrating Hawks Pride in everything we do, living “above the line,” and following our 3 core standards.
 
 By doing these things, and working hard to improve everyday, holding ourselves and our teammates accountable, we will have success. It’s about US!
+
+![](vs-edgar.png)

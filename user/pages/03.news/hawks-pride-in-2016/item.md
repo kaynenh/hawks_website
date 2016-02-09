@@ -16,11 +16,12 @@ Playing football has a large number of benefits that cannot be achieved in any o
 
 The list of benefits goes on and on. Here’s a few more:
 
-Brand new middle school authentic jerseys donated by the JJ Watt Foundation
-Thursday night meals donated and served by the Touchdown Club
-Improving physically, mentally and becoming a better teammate. Things that will help you regardless of your favorite sport or activity!
-Stay tuned for more………..
+- Brand new middle school authentic jerseys donated by the JJ Watt Foundation
+- Thursday night meals donated and served by the Touchdown Club
+- Improving physically, mentally and becoming a better teammate. 
+- Things that will help you regardless of your favorite sport or activity!
+Stay tuned for more……
 
-Follow Hawks football on twitter @RLP_Hawks
+Follow Hawks football on twitter [@RLP_Hawks](https://twitter.com/RLP_Hawks)
 
-Like the Touchdown Club on Facebook
+[Like the Touchdown Club on Facebook](https://www.facebook.com/HawksTDClub/?fref=ts)

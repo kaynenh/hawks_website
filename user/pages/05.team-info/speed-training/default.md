@@ -4,6 +4,6 @@ published: true
 visible: true
 ---
 
-Rib Lake Speed/Agility/Jump Training
 
-Stay tuned for more information about 2016 Speed Training
+Rib Lake Speed Training - Fridays @ 6:15 AM until the start of Track season
+

@@ -4,10 +4,14 @@ published: true
 visible: true
 ---
 
-![](RL-weight-room1.png)
+![](IMG_2793.JPG)
 
-Rib Lake Weight Room Hours:
+**Rib Lake Weight Room Hours:**
 
 Monday, Wednesday, Friday: 6:30 - 7:30 AM
 
 Tuesday, Wednesday, Thursday: 3:30 - 4:30 PM
+
+![](IMG_2794.JPG)
+
+![](IMG_2788.JPG)

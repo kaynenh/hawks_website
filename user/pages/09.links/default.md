@@ -16,7 +16,7 @@ title: Links
 
 <p><a href="http://www.riblake.k12.wi.us/faculty/mkrommenacker/index.cfm">Coach Krommenacker’s&nbsp;Website</a></p>
 
-<p><a href="https://sites.google.com/site/riblaketrackandfield/">Rib Lake Track &amp;&nbsp;Field</a></p>
+<p><a href="http://www.riblake.k12.wi.us/faculty/mkrommenacker/rib_lake_track.cfm">Rib Lake Track &amp;&nbsp;Field</a></p>
 
 <p><a href="http://www.riblake.k12.wi.us/schools/high/sch-rlhs-athletics-forms.cfm" target="_blank">Rib Lake Athletic Code/Concussion/Physical/Alternate Year&nbsp;Forms</a></p>
 
