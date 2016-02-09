@@ -1,3 +1,7 @@
+# INTRO
+
+This is a website built for the Rib Lake/Prentice Hawks football team in Grav, an open-source CMS developed by Rocket Theme. The majority of this site is a modification of the excellent Woo Theme that can be found at getgrav.org. Grav is a flat-file CMS that's a combination of Twig, Markdown and PHP (among other files). I chose it for this project to eliminate the need for a database. The current website can be seen running at [hawksfootball.org] (http://hawksfootball.org/). Since this was a voluntary project, I hope that this repo may help someone new to Grav in the future.
+
 # ![](https://avatars1.githubusercontent.com/u/8237355?v=2&s=50) Grav [![Build Status](https://travis-ci.org/getgrav/grav.svg?branch=develop)](https://travis-ci.org/getgrav/grav)
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/cfd20465-d0f8-4a0a-8444-467f5b5f16ad/mini.png)](https://insight.sensiolabs.com/projects/cfd20465-d0f8-4a0a-8444-467f5b5f16ad) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/getgrav/grav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
